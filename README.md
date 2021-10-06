@@ -1,2 +1,1 @@
-# special-octo-garbanzo
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+# Project Template 26
